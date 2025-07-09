@@ -4,6 +4,7 @@
 1. leetcode 78: Subsets
 2. leetcode 46: Permutations
 3. leetcode 79: Word Search
+4. leetcode 1545: findKthBit
 
 ## Linked List
 1. leetcode 21: Merge Two Sorted Lists

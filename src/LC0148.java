@@ -1,8 +1,6 @@
 import utils.ListNode;
 
-import static LC0021.mergeSortedLL;
-
-public class LC0148 {
+public class LC0148 extends LC0021{
     public static ListNode sortList(ListNode head) {
         if(head == null || head.next == null) {
             return head; // list is either singleton or empty => it is already sorted.
