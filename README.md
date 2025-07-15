@@ -5,6 +5,8 @@
 2. leetcode 46: Permutations
 3. leetcode 79: Word Search
 4. leetcode 1545: findKthBit
+5. leetcode 2: Add Two Numbers
+6. leetcode 0203: Remove Linked List Elements
 
 ## Linked List
 1. leetcode 21: Merge Two Sorted Lists
